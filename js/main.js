@@ -69,11 +69,11 @@ $(window).on('load', function() {
 	/*------------------
 		Popup
 	--------------------*/
-	$('.portfolio-item').magnificPopup({
+	/*$('.portfolio-item').magnificPopup({
 		type: 'image',
 		mainClass: 'img-popup-warp',
 		removalDelay: 400,
-	});
+	});*/
 
 
 	/*------------------
